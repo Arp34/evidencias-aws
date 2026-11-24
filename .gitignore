@@ -1,0 +1,5 @@
+# Nunca subir credenciales de AWS
+*.csv
+credentials
+.aws/
+*accessKeys*
